@@ -71,5 +71,6 @@ Conclusion
 
 This project demonstrates a practical approach to multi-source data integration and exploratory analysis. It highlights common challenges such as join validation, data duplication, and aggregation logic, and addresses them using standard data engineering practices.
 
-Author
+Author                                                                          
+                              
 Narayanapuram Akash
