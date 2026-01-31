@@ -42,12 +42,12 @@ Restaurant rating and revenue contribution
 Time-based (quarterly) revenue trends
 
 Project Structure
-├── Food_Delivery_Data_Analysis.ipynb
-├── orders.csv
-├── users.json
-├── restaurants.sql
-├── final_food_delivery_dataset.csv
-└── README.md
+├── Food_Delivery_Data_Analysis.ipynb                                                                                                                      
+├── orders.csv                                                                                                                            
+├── users.json                                                                                                            
+├── restaurants.sql                                                                                            
+├── final_food_delivery_dataset.csv                                                                                         
+└── README.md                                                                                           
 
 Key Notes
 
